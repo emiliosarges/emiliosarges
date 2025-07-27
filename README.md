@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Emílio, sou estudante de Engenharia de Software e uso meu perfil no GitHub para compartilhar o que estou estudando. Tenho interesse em aprender cada vez mais sobre: Desenvolvimento Web Full Stack, DevOps e Redes de Computadores.</p>
+<p align="left">Meu nome é Emílio, sou estudante de Engenharia de Software e uso meu perfil no GitHub para compartilhar o que estou estudando. Tenho interesse em aprender cada vez mais sobre: Desenvolvimento Web e Mobile Full Stack, DevOps e Redes de Computadores.</p>
 
 ###
 
