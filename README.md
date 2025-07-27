@@ -1,4 +1,12 @@
-<p align="center">Olá, meu nome é Emílio! <br>Sou estudante de Engenharia de Software</p>
+<h1 align="center">Seja bem vindo!</h1>
+
+###
+
+<p align="left">Meu nome é Emílio, sou estudante de Engenharia de Software e uso meu perfil no GitHub para compartilhar o que estou estudando. Tenho interesse em aprender cada vez mais sobre: Desenvolvimento Web Full Stack, DevOps e Redes de Computadores.</p>
+
+###
+
+<h2 align="left">Tecnologias que estou estudando:</h2>
 
 ###
 
@@ -38,28 +46,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emiliosarges&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Liguagens%20mais%20usadas" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emiliosarges&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emiliosarges&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Linguagens%20que%20eu%20mais%20uso:" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="linkedin.com/in/emilio-silva-704b42373" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="emiliosarges@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/emiliosarges/emiliosarges/output/snake.svg" alt="Snake animation" />
 
 ###
